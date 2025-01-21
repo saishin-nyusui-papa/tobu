@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saishin-nyusui-papa.github.io/tobu/sitemap.xml
